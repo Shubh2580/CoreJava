@@ -1,0 +1,8 @@
+package Basic;
+
+public class DateFormat {
+public static void main(String[] args) {
+	date d = new Date();
+	System.out.println(d);
+}
+}

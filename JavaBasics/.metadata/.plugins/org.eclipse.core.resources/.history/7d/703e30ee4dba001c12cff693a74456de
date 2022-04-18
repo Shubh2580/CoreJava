@@ -1,0 +1,21 @@
+package Basic_2;
+
+public class Random {
+public static void main(String[] args) {
+//double random = Math.random();
+	//int range = 200;
+		//	System.out.println((int)(random*range));
+	double min=100;
+	double max=200;
+	for(int i=1; i<=5; i++) {
+		int
+		result=((int)(Math.random()*((min+max)-min)));
+		System.out.println(result);
+		//System.out.println((int)(Math.random()*100));
+	}
+	}
+
+
+
+}
+

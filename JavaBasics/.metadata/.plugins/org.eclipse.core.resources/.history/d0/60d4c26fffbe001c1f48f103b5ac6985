@@ -1,0 +1,10 @@
+package Basic_2;
+
+public class Sample1 {
+public static void main(String[] args) {
+    int a = 10;
+    int b = 20;
+    swapNumbers(a,b);
+    {
+    	System.out.printl("%d %d",a,b);
+    		 }}}

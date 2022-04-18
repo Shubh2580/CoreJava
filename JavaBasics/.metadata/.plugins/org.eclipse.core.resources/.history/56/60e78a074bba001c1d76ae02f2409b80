@@ -1,0 +1,10 @@
+package Basic_2;
+
+public class Random {
+public static void main(String[] args) {
+	for (int i =100; i<200; i++) {
+		int C = min + randomNum.nextInt(max);
+		System.out.println(C);
+	}
+}
+}

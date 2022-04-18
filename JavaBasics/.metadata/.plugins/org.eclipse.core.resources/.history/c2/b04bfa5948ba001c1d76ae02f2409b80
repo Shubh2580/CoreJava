@@ -1,0 +1,12 @@
+package Basic_2;
+
+import Java.lang.Object;
+
+public class Random extends Object {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
