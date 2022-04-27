@@ -19,7 +19,7 @@ public static void main(String[] args) throws ParseException {
 	String dd = sdf.format(d);
 	
      String s= "24/04/1997";
-     Date dt = sdf.parse(s);
+     Date dt= sdf.parse(s);
      
      per.setPerDob(dt);
 	System.out.println(per.toString());

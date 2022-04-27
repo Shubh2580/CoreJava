@@ -34,7 +34,7 @@ public class ShapeInheritanceTest {
 
 		System.out.println(t.getBase());
 		System.out.println(t.getHeight());
-		System.out.println("Area of Triangle" + d2);
+		System.out.println("Area of Triangle= " + d2);
 		 double A= d+d1+d2;
 		System.out.println("Total Area=" + A);
 	}

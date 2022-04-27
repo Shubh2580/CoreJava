@@ -21,7 +21,6 @@ public static void main(String[] args) {
 }
 
 private static double FundTransfer() {
-	// TODO Auto-generated method stub
 	return 0;
 }
 
